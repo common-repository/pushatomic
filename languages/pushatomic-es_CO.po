@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pushatomic\n"
+"POT-Creation-Date: 2021-05-18 11:08+0200\n"
+"PO-Revision-Date: 2021-05-18 11:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+"X-Poedit-SearchPathExcluded-1: resources\n"
+
+#: pushatomic-admin.php:12
+msgid "Important: In order to work your site must be <strong>https</strong>"
+msgstr "Importante:  para funcionar tu web debe ser <strong>https</strong>"
+
+#: pushatomic-admin.php:23
+msgid "Monetize your website"
+msgstr "Monetiza tu web"
+
+#: pushatomic-admin.php:24
+msgid "Up to 30% more than other solutions"
+msgstr "Hasta un 30% más que otras soluciones"
+
+#: pushatomic-admin.php:25
+msgid "Push notifications for mainstream - adult - warez"
+msgstr "Notificaciones push para mainstream - adulto - warez"
+
+#: pushatomic-admin.php:29
+msgid "Get your free account"
+msgstr "Consigue una cuenta gratis"
+
+#: pushatomic-admin.php:37
+msgid "Activation"
+msgstr "Activación"
+
+#: pushatomic-admin.php:46
+msgid "Pushatomic ID"
+msgstr "Pushatomic ID"
+
+#: pushatomic-admin.php:49
+msgid ""
+"Get your Pushatomic ID <a href=\"https://pushatomic.com/panel/auth/signup?"
+"utm_source=wordpress_plugin\" target=\"_blank\">here</a>"
+msgstr ""
+"Consigue tu Pushatomic ID <a href=\"https://pushatomic.com/panel/auth/signup?"
+"utm_source=wordpress_plugin\" target=\"_blank\">aquí</a>"
+
+#: pushatomic-admin.php:53
+msgid "Activate"
+msgstr "Activar"
+
+#: pushatomic-admin.php:54
+msgid "Change"
+msgstr "Cambiar"
+
+#: pushatomic-admin.php:65
+msgid "General"
+msgstr "General"
+
+#: pushatomic-admin.php:73
+msgid "Enable plugin"
+msgstr "Activar plugin"
+
+#: pushatomic-admin.php:84
+msgid "Operating mode"
+msgstr "Modo de funcionamiento"
+
+#: pushatomic-admin.php:87
+msgid "Direct (Maximize earnings)"
+msgstr "Directo (Maximiza beneficios)"
+
+#: pushatomic-admin.php:88
+msgid "Prompt (Better for user experience)"
+msgstr "Modal (Mejor para la experiencia de usuario)"
+
+#: pushatomic-admin.php:90
+msgid "Asks permission directly. Maximize earnings."
+msgstr "Pide permiso directamente. Maximiza beneficios."
+
+#: pushatomic-admin.php:91
+msgid "Shows a previous permission prompt with personalized texts and icon"
+msgstr "Muestra un modal de permiso previo con textos personalizados e icono"
+
+#: pushatomic-admin.php:98 pushatomic-admin.php:267 pushatomic-admin.php:329
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: pushatomic-admin.php:110
+msgid "Previous permission modal settings"
+msgstr "Ajustes del modal de permiso previo"
+
+#: pushatomic-admin.php:152
+msgid "Title"
+msgstr "Título"
+
+#: pushatomic-admin.php:159
+msgid "Accept button"
+msgstr "Botón de aceptar"
+
+#: pushatomic-admin.php:167
+msgid "Decline button"
+msgstr "Botón de declinar"
+
+#: pushatomic-admin.php:177
+msgid "Show custom icon?"
+msgstr "¿Mostrar icono personalizado?"
+
+#: pushatomic-admin.php:187
+msgid "Custom icon"
+msgstr "Icono personalizado"
+
+#: pushatomic-admin.php:191
+msgid "Upload"
+msgstr "Subir"
+
+#: pushatomic-admin.php:198
+msgid "Position"
+msgstr "Posición"
+
+#: pushatomic-admin.php:201
+msgid "Bottom"
+msgstr "Abajo"
+
+#: pushatomic-admin.php:202
+msgid "Top"
+msgstr "Arriba"
+
+#: pushatomic-admin.php:209
+msgid "Z index"
+msgstr "Z index"
+
+#: pushatomic-admin.php:218
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: pushatomic-admin.php:226
+msgid "Font color"
+msgstr "Color de fuente"
+
+#: pushatomic-admin.php:235
+msgid "Accept button background color"
+msgstr "Color de fondo del botón aceptar"
+
+#: pushatomic-admin.php:243
+msgid "Accept button font color"
+msgstr "Color de fuente del botón aceptar"
+
+#: pushatomic-admin.php:251
+msgid "Decline button background color"
+msgstr "Color de fondo del botón declinar"
+
+#: pushatomic-admin.php:259
+msgid "Decline button font color"
+msgstr "Color de fuente del botón declinar"
+
+#: pushatomic-admin.php:276
+msgid "Behaviour"
+msgstr "Comportamiento"
+
+#: pushatomic-admin.php:281
+msgid "Ask permission on"
+msgstr "Pedir permiso en"
+
+#: pushatomic-admin.php:284
+msgid "Desktop and mobile"
+msgstr "Ordenador y móvil"
+
+#: pushatomic-admin.php:285
+msgid "Only mobile"
+msgstr "Sólo móvil"
+
+#: pushatomic-admin.php:286
+msgid "Only desktop"
+msgstr "Sólo ordenador"
+
+#: pushatomic-admin.php:292
+msgid "Closed days"
+msgstr "Días cerrado"
+
+#: pushatomic-admin.php:295
+msgid "Ask again after the indicated days"
+msgstr "Preguntar otra vez después de los días indicados"
+
+#: pushatomic-admin.php:300
+msgid "Trigger mode"
+msgstr "Modo de accionado"
+
+#: pushatomic-admin.php:303
+msgid "Instant"
+msgstr "Instantáneo"
+
+#: pushatomic-admin.php:304
+msgid "Timeout"
+msgstr "Timeout"
+
+#: pushatomic-admin.php:305
+msgid "Scroll"
+msgstr "Scroll"
+
+#: pushatomic-admin.php:311
+msgid "Timeout trigger in seconds"
+msgstr "Accionado por timeout en segundos"
+
+#: pushatomic-admin.php:314
+msgid "Ask permission after the indicated seconds"
+msgstr "Pedir permiso después de los segundos indicados"
+
+#: pushatomic-admin.php:320
+msgid "Scroll trigger"
+msgstr "Accionado por scroll"
+
+#: pushatomic-admin.php:323
+msgid "Ask permission when user scrolls the indicated pixels"
+msgstr "Pedir permiso cuando el usuario haga scroll los píxeles indicados"
+
+#: pushatomic.php:52
+msgid "Settings"
+msgstr "Ajustes"
+
+#: pushatomic.php:65
+msgid "Setting saved successfuly"
+msgstr "Ajustes guardados con éxito"
+
+#: pushatomic.php:69
+msgid "Nonce invalid. Please, reload page."
+msgstr "Nonce inválido. Por favor, recarga la página."
+
+#: pushatomic.php:136
+msgid "We'd like to show you notifications for the latest news and updates."
+msgstr ""
+"Nos gustaría enviarte notificaciones con las últimas novedades de nuestra "
+"web."
+
+#: pushatomic.php:137
+msgid "Allow"
+msgstr "Permitir"
+
+#: pushatomic.php:138
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: pushatomic.php:258
+msgid "Pushatomic is now active"
+msgstr "Pushatomic está ahora activo"
+
+#: pushatomic.php:259
+msgid "Your Pushatomic ID is incorrect"
+msgstr "Tu Pushatomic ID es incorrecto"
+
+#~ msgid ""
+#~ "Don´t have a Pushatomic account? Get one and start making money with your "
+#~ "web!"
+#~ msgstr ""
+#~ "¿No tienes una cuenta de Pushatomic? ¡Consigue una y empieza a hacer "
+#~ "dinero con tu web!"
+
+#~ msgid "Show previous permission modal?"
+#~ msgstr "¿Desea mostrar modal de permiso previo?"

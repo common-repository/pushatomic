@@ -1,0 +1,253 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pushatomic\n"
+"POT-Creation-Date: 2021-05-18 11:08+0200\n"
+"PO-Revision-Date: 2021-04-26 08:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+"X-Poedit-SearchPathExcluded-1: resources\n"
+
+#: pushatomic-admin.php:12
+msgid "Important: In order to work your site must be <strong>https</strong>"
+msgstr ""
+
+#: pushatomic-admin.php:23
+msgid "Monetize your website"
+msgstr ""
+
+#: pushatomic-admin.php:24
+msgid "Up to 30% more than other solutions"
+msgstr ""
+
+#: pushatomic-admin.php:25
+msgid "Push notifications for mainstream - adult - warez"
+msgstr ""
+
+#: pushatomic-admin.php:29
+msgid "Get your free account"
+msgstr ""
+
+#: pushatomic-admin.php:37
+msgid "Activation"
+msgstr ""
+
+#: pushatomic-admin.php:46
+msgid "Pushatomic ID"
+msgstr ""
+
+#: pushatomic-admin.php:49
+msgid ""
+"Get your Pushatomic ID <a href=\"https://pushatomic.com/panel/auth/signup?"
+"utm_source=wordpress_plugin\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: pushatomic-admin.php:53
+msgid "Activate"
+msgstr ""
+
+#: pushatomic-admin.php:54
+msgid "Change"
+msgstr ""
+
+#: pushatomic-admin.php:65
+msgid "General"
+msgstr ""
+
+#: pushatomic-admin.php:73
+msgid "Enable plugin"
+msgstr ""
+
+#: pushatomic-admin.php:84
+msgid "Operating mode"
+msgstr ""
+
+#: pushatomic-admin.php:87
+msgid "Direct (Maximize earnings)"
+msgstr ""
+
+#: pushatomic-admin.php:88
+msgid "Prompt (Better for user experience)"
+msgstr ""
+
+#: pushatomic-admin.php:90
+msgid "Asks permission directly. Maximize earnings."
+msgstr ""
+
+#: pushatomic-admin.php:91
+msgid "Shows a previous permission prompt with personalized texts and icon"
+msgstr ""
+
+#: pushatomic-admin.php:98 pushatomic-admin.php:267 pushatomic-admin.php:329
+msgid "Save settings"
+msgstr ""
+
+#: pushatomic-admin.php:110
+msgid "Previous permission modal settings"
+msgstr ""
+
+#: pushatomic-admin.php:152
+msgid "Title"
+msgstr ""
+
+#: pushatomic-admin.php:159
+msgid "Accept button"
+msgstr ""
+
+#: pushatomic-admin.php:167
+msgid "Decline button"
+msgstr ""
+
+#: pushatomic-admin.php:177
+msgid "Show custom icon?"
+msgstr ""
+
+#: pushatomic-admin.php:187
+msgid "Custom icon"
+msgstr ""
+
+#: pushatomic-admin.php:191
+msgid "Upload"
+msgstr ""
+
+#: pushatomic-admin.php:198
+msgid "Position"
+msgstr ""
+
+#: pushatomic-admin.php:201
+msgid "Bottom"
+msgstr ""
+
+#: pushatomic-admin.php:202
+msgid "Top"
+msgstr ""
+
+#: pushatomic-admin.php:209
+msgid "Z index"
+msgstr ""
+
+#: pushatomic-admin.php:218
+msgid "Background color"
+msgstr ""
+
+#: pushatomic-admin.php:226
+msgid "Font color"
+msgstr ""
+
+#: pushatomic-admin.php:235
+msgid "Accept button background color"
+msgstr ""
+
+#: pushatomic-admin.php:243
+msgid "Accept button font color"
+msgstr ""
+
+#: pushatomic-admin.php:251
+msgid "Decline button background color"
+msgstr ""
+
+#: pushatomic-admin.php:259
+msgid "Decline button font color"
+msgstr ""
+
+#: pushatomic-admin.php:276
+msgid "Behaviour"
+msgstr ""
+
+#: pushatomic-admin.php:281
+msgid "Ask permission on"
+msgstr ""
+
+#: pushatomic-admin.php:284
+msgid "Desktop and mobile"
+msgstr ""
+
+#: pushatomic-admin.php:285
+msgid "Only mobile"
+msgstr ""
+
+#: pushatomic-admin.php:286
+msgid "Only desktop"
+msgstr ""
+
+#: pushatomic-admin.php:292
+msgid "Closed days"
+msgstr ""
+
+#: pushatomic-admin.php:295
+msgid "Ask again after the indicated days"
+msgstr ""
+
+#: pushatomic-admin.php:300
+msgid "Trigger mode"
+msgstr ""
+
+#: pushatomic-admin.php:303
+msgid "Instant"
+msgstr ""
+
+#: pushatomic-admin.php:304
+msgid "Timeout"
+msgstr ""
+
+#: pushatomic-admin.php:305
+msgid "Scroll"
+msgstr ""
+
+#: pushatomic-admin.php:311
+msgid "Timeout trigger in seconds"
+msgstr ""
+
+#: pushatomic-admin.php:314
+msgid "Ask permission after the indicated seconds"
+msgstr ""
+
+#: pushatomic-admin.php:320
+msgid "Scroll trigger"
+msgstr ""
+
+#: pushatomic-admin.php:323
+msgid "Ask permission when user scrolls the indicated pixels"
+msgstr ""
+
+#: pushatomic.php:52
+msgid "Settings"
+msgstr ""
+
+#: pushatomic.php:65
+msgid "Setting saved successfuly"
+msgstr ""
+
+#: pushatomic.php:69
+msgid "Nonce invalid. Please, reload page."
+msgstr ""
+
+#: pushatomic.php:136
+msgid "We'd like to show you notifications for the latest news and updates."
+msgstr ""
+
+#: pushatomic.php:137
+msgid "Allow"
+msgstr ""
+
+#: pushatomic.php:138
+msgid "Cancel"
+msgstr ""
+
+#: pushatomic.php:258
+msgid "Pushatomic is now active"
+msgstr ""
+
+#: pushatomic.php:259
+msgid "Your Pushatomic ID is incorrect"
+msgstr ""
